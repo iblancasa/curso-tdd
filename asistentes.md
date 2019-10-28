@@ -18,8 +18,7 @@
 | FernandoRoldan93 | https://www.linkedin.com/in/froldanzafra/ |
 | mellado         | https://www.linkedin.com/in/mellado-pablo                              |
 | OscarRubioGarcia | https://www.linkedin.com/in/oscar-rubio-garcia-368971195/             |
-| Solano96        | https://www.linkedin.com/in/francisco-solano-dgiim/                    |
-| iblancasa       |                                                                        |
+| Solano96        | https://www.linkedin.com/in/francisco-solano-dgiim/                    |                                                               |
 | carlos-el       | https://www.linkedin.com/in/carlos-enr%C3%ADquez-l%C3%B3pez-90412a197/ |
 | ibe16           | https://www.linkedin.com/in/irene-béjar-maldonado-24955b15b            |  
 | antmordhar      | https://www.linkedin.com/in/antonio-morales-de-haro-40056015b          |
